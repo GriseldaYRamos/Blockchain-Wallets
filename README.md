@@ -14,4 +14,5 @@ Transaction in Ganache:
 <img width="887" alt="image" src="https://user-images.githubusercontent.com/94207103/163691642-c8f5356d-ba84-4a1b-b65a-47a0f4b36a63.png">
 
 Account balance:
+
 <img width="881" alt="image" src="https://user-images.githubusercontent.com/94207103/163691649-11bf42d2-e70a-45ef-ab9f-2ae53a88ae33.png">
