@@ -7,6 +7,7 @@ Ganache prior to any transactions:
 <img width="872" alt="image" src="https://user-images.githubusercontent.com/94207103/163691601-8f96dc41-f232-49a6-8630-a19beb7d69c8.png">
 
 Hiring Ash for 3 hours:
+
 <img width="244" alt="image" src="https://user-images.githubusercontent.com/94207103/163691616-e60c30c5-f0ba-4c4c-8765-4cd3c94affee.png">
 
 Transaction in Ganache:
